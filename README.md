@@ -1,5 +1,6 @@
-¡Hello, everyone!
-I'm a 21 year old student of Information Technology at CUCEI (University of Guadalajara).
+###¡Hello, everyone!
+
+##I'm a 21 year old student of Information Technology at CUCEI (University of Guadalajara).
 
 I have enjoyed learning from the subjects that the school has to offer, and I wish to keep growing as a developer.
 
