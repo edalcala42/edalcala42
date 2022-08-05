@@ -1,4 +1,13 @@
-### Hi there 👋
+¡Hello, everyone!
+I'm a 21 year old student of Information Technology at CUCEI (University of Guadalajara).
+
+I have enjoyed learning from the subjects that the school has to offer, and I wish to keep growing as a developer.
+
+Language and Tools.
+![cplusplus-original](https://user-images.githubusercontent.com/71091573/183147393-66b4f29d-ff86-4631-999e-45d82772c95f.svg)
+![unity-original](https://user-images.githubusercontent.com/71091573/183147410-e506804d-191f-4a5c-adf1-3f343ad1a100.svg)
+![python-original](https://user-images.githubusercontent.com/71091573/183147427-d4dd49eb-1452-4679-a864-0d27a87ffb54.svg)
+![javascript-original](https://user-images.githubusercontent.com/71091573/183147461-ecd84275-e1ec-427b-a8a4-7990c2d064dc.svg)
 
 <!--
 **edalcala42/edalcala42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
