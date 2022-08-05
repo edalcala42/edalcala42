@@ -14,7 +14,7 @@ I have enjoyed learning from the subjects that the school has to offer, and I wi
 * CSS
 
 <div class="proyectos">
-            <h2>Proyectos.</h2>
+            <h2>Projects.</h2>
             <table style="width:65%">
                 <tr>
                   <th>Nombre del proyecto</th>
