@@ -44,7 +44,24 @@ I have enjoyed learning from the subjects that the school has to offer, and I wi
                 <tr>
                   <td><a href="https://github.com/edalcala42/Administrador-de-particulas">Administrador de partículas</a></td>
                   <td>Python</td>
-                  <td>Se implementó una interfaz gráfica (con PySide2) para
+                  <td>
+                      ENGLISH.
+                      <br>
+                      A user interface (using PySide2) was implemented for the input of particles with the following attributes:
+                        <ul>
+                                    <li>Id.</li>
+                                    <li>X Origin Coordinate.</li>
+                                    <li>Y Origin Coordinate.</li>
+                                    <li>X Destiny Coordinate.</li>
+                                    <li>Y Destiny Coordinate.</li>
+                                    <li>Speed.</li>
+                                    <li>Color (r, g, b).</li>
+                        </ul>
+                        The program stores particles in a data dictionary for the user to consult them whenever he or she wishes. The state of the particles can be                           seen on a window that shows their route through colors.  
+                      <br><br>
+                      SPANISH.
+                      <br>
+                      Se implementó una interfaz gráfica (con PySide2) para
                       la captura de partículas, las cuales tienen los siguientes 
                       atributos:
                       <ul>
@@ -54,7 +71,7 @@ I have enjoyed learning from the subjects that the school has to offer, and I wi
                           <li>Destino en X</li>
                           <li>Destino en Y</li>
                           <li>Velocidad</li>
-                          <li>Color(rgb)</li>
+                          <li>Color(r, g, b)</li>
                       </ul>
                       El programa tiene la capacidad de almacenar las partículas
                       en un diccionario de datos para que el usuario pueda 
