@@ -126,7 +126,14 @@ I have enjoyed learning from the subjects that the school has to offer, and I wi
                   <tr>
                     <td><a href="https://www.youtube.com/watch?v=iNTR40aDv-c">Máquina de chascas</a></td>
                     <td>Arduino</td>
-                    <td>Como proyecto de titulación de Ceti Colomos para la carrera de electromecánica, se trabajó en una máquina semi-automática de chascas, que                               mediante la introducción de datos por parte del usuario, produce un pedido específico.
+                    <td>
+                         ENGLISH.
+                         <br>
+                         As one of the final steps of the Mechanical Electric Engineering title process in CETI Colomos, it was necessary to work on a project. In a                            team effort, a semi-automatic Chasca machine was built (Chasca is the name of a special type of ice cream that is created when frozen fruit                            and solid yogurth are combined). The electrical and electronic components were controlled by an Arduino microprocessor. 
+                         <br><br>
+                         SPANISH.
+                         <br>
+                         Como proyecto de titulación de Ceti Colomos para la carrera de electromecánica, se trabajó en una máquina semi-automática de chascas, que                              mediante la introducción de datos por parte del usuario, produce un pedido específico.
                     </td>
                   </tr>
               </table>
