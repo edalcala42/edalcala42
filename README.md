@@ -83,7 +83,20 @@ I have enjoyed learning from the subjects that the school has to offer, and I wi
                 <tr>
                     <td><a href="https://github.com/edalcala42/Administrador-de-rutas">Administrador de rutas</a></td>
                     <td>C++</td>
-                    <td>En equipo, se implementó una interfaz gráfica (con Qt Creator) con 
+                    <td>
+                        ENGLISH.
+                        <br>
+                        In a team effort, a user interface (using Qt Creator) was implemented for the purpose to manage travel routes through the input of the cities                         involved, as well as their locations. Each city has the following attributes:
+                        <ul>
+                                    <li>Name.</li>
+                                    <li>Satisfaction index.</li>
+                                    <li>Node number.</li>
+                        </ul>
+                        The cities stored in this program are treated as individual graphs, which allows the Prim and Dijkstra search algorithms to work.
+                        <br><br>
+                        SPANISH.
+                        <br>
+                        En equipo, se implementó una interfaz gráfica (con Qt Creator) con 
                         la función de administrar rutas de viaje mediante el ingreso de 
                         ciudades y su locación. Cada una ellas cuenta con tres atributos
                         principales:
