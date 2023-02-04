@@ -129,7 +129,7 @@ I have enjoyed learning from the subjects that the school has to offer, and I wi
                     <td>
                          ENGLISH.
                          <br>
-                         As one of the final steps of the Mechanical Electric Engineering title process in CETI Colomos, it was necessary to work on a project. In a                            team effort, a semi-automatic Chasca machine was built (Chasca is the name of a special type of ice cream that is created when frozen fruit                            and solid yogurth are combined). The electrical and electronic components were controlled by an Arduino microprocessor. 
+                         As one of the final steps of the Mechanical Electric Engineering title process in CETI Colomos, it was necessary to work on a project. In a                            team effort, a semi-automatic Chasca machine was built (Chasca is the name of a special type of ice cream that is created when frozen fruit                            and solid yogurt are combined). The electrical and electronic components were controlled by an Arduino microprocessor. 
                          <br><br>
                          SPANISH.
                          <br>
