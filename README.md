@@ -42,7 +42,7 @@ I have enjoyed learning from the subjects that the school has to offer, and I wi
                   </td>
                 </tr>
                 <tr>
-                  <td><a href="https://github.com/edalcala42/Administrador-de-particulas">Administrador de partículas</a></td>
+                  <td><a href="https://github.com/edalcala42/Administrador-de-particulas">Particle Manager</a></td>
                   <td>Python</td>
                   <td>
                       ENGLISH.
@@ -81,7 +81,7 @@ I have enjoyed learning from the subjects that the school has to offer, and I wi
                   </td>
                 </tr>
                 <tr>
-                    <td><a href="https://github.com/edalcala42/Administrador-de-rutas">Administrador de rutas</a></td>
+                    <td><a href="https://github.com/edalcala42/Administrador-de-rutas">City Route Manager</a></td>
                     <td>C++</td>
                     <td>
                         ENGLISH.
@@ -111,7 +111,7 @@ I have enjoyed learning from the subjects that the school has to offer, and I wi
                     </td>
                   </tr>
                   <tr>
-                    <td><a href="https://github.com/edalcala42/Game-Paradise">Tienda en línea "Game Paradise"</a></td>
+                    <td><a href="https://github.com/edalcala42/Game-Paradise">Online Game Store: "Game Paradise"</a></td>
                     <td>Laravel</td>
                     <td>
                       ENGLISH.
@@ -124,7 +124,7 @@ I have enjoyed learning from the subjects that the school has to offer, and I wi
                     </td>
                   </tr>
                   <tr>
-                    <td><a href="https://www.youtube.com/watch?v=iNTR40aDv-c">Máquina de chascas</a></td>
+                    <td><a href="https://www.youtube.com/watch?v=iNTR40aDv-c">Chasca semi-automatic Machine</a></td>
                     <td>Arduino</td>
                     <td>
                          ENGLISH.
