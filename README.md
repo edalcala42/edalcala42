@@ -17,14 +17,18 @@ I have enjoyed learning from the subjects that the school has to offer, and I wi
             <h2>Projects.</h2>
             <table style="width:65%">
                 <tr>
-                  <th>Nombre del proyecto</th>
-                  <th>Lenguaje(s)</th>
-                  <th>Descripción</th>
+                  <th>Name of the project</th>
+                  <th>Programming Language(s)</th>
+                  <th>Description</th>
                 </tr>
                 <tr>
                   <td><a href="https://github.com/edalcala42/Twin-Pines">Twin Pines</a></td>
                   <td>C# (Unity)</td>
-                  <td>Se trata de un videojuego realizado con el motor
+                  <td>
+                      ENGLISH.
+                      It’s a small videogame developed with Unity. This game possesses mechanics that are reminiscent of the platforms genre, where the player has the                       ability to jump between sections of the map and to stomp on enemies in order to progress the level; besides, there are two extra actions that                           allow the player to attack (the enemies) and evade attacks, all of this with the purpose of providing a fluid and fun gameplay experience.                             
+                      SPANISH.
+                      Se trata de un videojuego realizado con el motor
                       de Unity. El juego tiene mecánicas propias del 
                       género de plataformas, donde el jugador tiene la
                       capacidad de saltar entre secciones del mapa y de 
