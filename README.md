@@ -26,8 +26,10 @@ I have enjoyed learning from the subjects that the school has to offer, and I wi
                   <td>C# (Unity)</td>
                   <td>
                       ENGLISH.
-                      It’s a small videogame developed with Unity. This game possesses mechanics that are reminiscent of the platforms genre, where the player has the                       ability to jump between sections of the map and to stomp on enemies in order to progress the level; besides, there are two extra actions that                           allow the player to attack (the enemies) and evade attacks, all of this with the purpose of providing a fluid and fun gameplay experience.                             
+                      <br>
+                      It’s a small videogame developed with Unity. This game possesses mechanics that are reminiscent of the platforms genre, where the player has the                       ability to jump between sections of the map and to stomp on enemies in order to progress the level; besides, there are two extra actions that                           allow the player to attack (the enemies) and evade attacks, all of this with the purpose of providing a fluid and fun gameplay experience.                             <br><br>
                       SPANISH.
+                      <br>
                       Se trata de un videojuego realizado con el motor
                       de Unity. El juego tiene mecánicas propias del 
                       género de plataformas, donde el jugador tiene la
