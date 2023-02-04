@@ -114,6 +114,12 @@ I have enjoyed learning from the subjects that the school has to offer, and I wi
                     <td><a href="https://github.com/edalcala42/Game-Paradise">Tienda en línea "Game Paradise"</a></td>
                     <td>Laravel</td>
                     <td>
+                      ENGLISH.
+                      <br>
+                      To get to know the framework of Laravel, a web page with a CRUD system was developed. This online store is oriented towards videogame selling.
+                      <br><br>
+                      SPANISH.
+                      <br>
                       Se desarrolló una página web destinada a la compra de videojuegos mediante el uso del framework de Laravel.
                     </td>
                   </tr>
