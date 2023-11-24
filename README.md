@@ -2,7 +2,7 @@
 
 ### I'm a 23 year old fresh graduate of Information Technology at CUCEI (University of Guadalajara).
 
-I have enjoyed learning from the subjects that the school had to offer, and I wish to keep growing as a developer.
+I have enjoyed learning from the subjects that the school had to offer, and I wish to keep growing as a developer. I'm currently working as a web developer using Laravel.
 
 ### Language and Tools.
 * C++
