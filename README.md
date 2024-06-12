@@ -15,6 +15,8 @@ I have enjoyed learning from the subjects that the school had to offer, and I wi
 * AJAX
 * HTML
 * CSS
+* Java
+* Spring Boot
 
 <div class="proyectos">
             <h2>Projects.</h2>
