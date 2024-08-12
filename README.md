@@ -32,7 +32,11 @@ I have enjoyed learning from the subjects that the school had to offer, and I wi
                   <td>
                       ENGLISH.
                       <br>
-                      It’s a small videogame developed with Unity. This game possesses mechanics that are reminiscent of the platforms genre, where the player has the                       ability to jump between sections of the map and to stomp on enemies in order to progress the level; besides, there are two extra actions that                           allow the player to attack (the enemies) and evade attacks, all of this with the purpose of providing a fluid and fun gameplay experience.                             <br><br>
+                      It’s a small video game developed with Unity. This game possesses mechanics that are reminiscent of the platform genre, where
+the player has the ability to jump between sections of the map and to stomp on enemies in order to progress the level; besides,
+there are two extra actions that allow the player to attack (the enemies) and evade attacks, all of this with the purpose of providing
+a fluid and fun gameplay experience.
+                        <br><br>
                       SPANISH.
                       <br>
                       Se trata de un videojuego realizado con el motor
@@ -62,7 +66,7 @@ I have enjoyed learning from the subjects that the school had to offer, and I wi
                                     <li>Speed.</li>
                                     <li>Color (r, g, b).</li>
                         </ul>
-                        The program stores particles in a data dictionary for the user to consult them whenever he or she wishes. The state of the particles can be                           seen on a window that shows their route through colors.  
+                        The program stores particles in a data dictionary for the user to consult whenever he or she wishes. The state of the particles can be seen on a window that shows their route through colors.  
                       <br><br>
                       SPANISH.
                       <br>
