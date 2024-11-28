@@ -1,4 +1,4 @@
-## ¡Hello, everyone!
+## Hello, everyone!
 
 ### I'm a 23 year old fresh graduate of Information Technology at CUCEI (University of Guadalajara).
 
