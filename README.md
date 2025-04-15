@@ -4,11 +4,11 @@
 
 I have enjoyed learning from the subjects that the school had to offer, and I wish to keep growing as a developer. I'm currently working as a web developer using Laravel.
 
-### Language and Tools.
-* Java, Spring Boot
-* Docker, Jenkins
-* PHP, AJAX, Laravel, JavaScript
-* Arduino
+### Technical Skills.
+* Programming Languages: Java, PHP, JavaScript, SQL, PL/SQL
+* Frameworks/Libraries: Spring Boot, JPA, Hibernate, Lombok, CORS, Laravel
+* Version control: Git, GitLab, GitHub
+* Other: Laragon, Docker, Jenkins, AWS (currently enrolled in the AWS Cloud Practitioner Essentials Course), AJAX, Arduino
 
 <div class="proyectos">
             <h2>Projects.</h2>
