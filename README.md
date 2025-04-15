@@ -1,22 +1,18 @@
 ## Hello, everyone!
 
-### I'm a 23 year old fresh graduate of Information Technology at CUCEI (University of Guadalajara).
+### I'm a 24 year old fresh graduate of Information Technology at CUCEI (University of Guadalajara).
 
 I have enjoyed learning from the subjects that the school had to offer, and I wish to keep growing as a developer. I'm currently working as a web developer using Laravel.
 
 ### Language and Tools.
-* C++
-* Python
-* PHP
-* JavaScript
-* Unity
-* Laravel
-* Arduino
-* AJAX
-* HTML
-* CSS
 * Java
 * Spring Boot
+* PHP
+* Laravel
+* JavaScript
+* Arduino
+* AJAX
+* Python
 
 <div class="proyectos">
             <h2>Projects.</h2>
