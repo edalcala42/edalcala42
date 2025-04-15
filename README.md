@@ -2,16 +2,16 @@
 
 ### I'm a 24 year old fresh graduate of Information Technology at CUCEI (University of Guadalajara).
 
-I have enjoyed learning from the subjects that the school had to offer, and I wish to keep growing as a developer. I'm currently working as a web developer using Laravel.
+I'm currently a JAVA/Spring Boot REST API Backend Developer working at the Universidad de Guadalajara. I'm open to new opportunities as I keep improving my skills and learning everyday to become a better person and engineer.
 
 ### Technical Skills.
-* ## Programming Languages:
+* #### Programming Languages:
   Java, PHP, JavaScript, SQL, PL/SQL
-* ## Frameworks/Libraries:
+* #### Frameworks/Libraries:
   Spring Boot, JPA, Hibernate, Lombok, CORS, Laravel
-* ## Version control:
+* #### Version control:
   Git, GitLab, GitHub
-* ## Other:
+* #### Other:
   Laragon, Docker, Jenkins, AWS (currently enrolled in the AWS Cloud Practitioner Essentials Course), AJAX, Arduino
 
 <div class="proyectos">
