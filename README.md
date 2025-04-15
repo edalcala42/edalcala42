@@ -1,8 +1,8 @@
 ## Hello, everyone!
 
-### I'm a 24 year old fresh graduate of Information Technology at CUCEI (University of Guadalajara).
+### I'm a 24-year-old recent Information Technology graduate from CUCEI, University of Guadalajara.
 
-I'm currently a JAVA/Spring Boot REST API Backend Developer working at the Universidad de Guadalajara. I'm open to new opportunities as I keep improving my skills and learning everyday to become a better person and engineer.
+Currently, I work as a Java/Spring Boot REST API Backend Developer at the University of Guadalajara. I'm always looking to grow — both personally and professionally — and I'm open to new opportunities where I can continue improving my skills and contributing as a developer.
 
 ### Technical Skills.
 * #### Programming Languages:
